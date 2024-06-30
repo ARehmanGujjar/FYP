@@ -8,7 +8,7 @@ const SignUp = () => {
     <div className="max-w-screen-xl m-0 sm:m-10 bg-white shadow sm:rounded-lg flex justify-center flex-1">
         <div className="lg:w-1/2 xl:w-5/12 p-2 sm:p-2">
             <div>
-                <img src="./public/images/common/appLogo.png" alt="logo"
+                <img src="/public/images/common/appLogo.png" alt="logo"
                     className="w-32 mx-auto" />
             </div>
             <div className="mt-6 flex flex-col items-center">
