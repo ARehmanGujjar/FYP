@@ -9,7 +9,7 @@ const NearInspect = () => {
               <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
                 <img
                   className="lg:h-40 sm:mt-5 md:h-36  w-1/2 object-cover object-center rounded-full m-auto"
-                  src="/public/images/main/inspector1.png"
+                  src="/images/main/inspector1.png"
                   alt="blog"
                 />
                 <div className="p-6">
@@ -57,7 +57,7 @@ const NearInspect = () => {
                     <span className="text-gray-400 inline-flex items-center leading-none text-sm">
                       <img
                         className="w-4 h-4 mr-1"
-                        src="/public/images/main/star.png"
+                        src="/images/main/star.png"
                         alt="rating"
                       ></img>
                       4.7
@@ -70,7 +70,7 @@ const NearInspect = () => {
               <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
                 <img
                   className="lg:h-40 sm:mt-5 md:h-36  w-1/2 object-cover object-center rounded-full m-auto"
-                  src="/public/images/main/inspector4.jpg"
+                  src="/images/main/inspector4.jpg"
                   alt="blog"
                 />
                 <div className="p-6">
@@ -117,7 +117,7 @@ const NearInspect = () => {
                     <span className="text-gray-400 inline-flex items-center leading-none text-sm">
                       <img
                         className="w-4 h-4 mr-1"
-                        src="/public/images/main/star.png"
+                        src="/images/main/star.png"
                         alt="rating"
                       ></img>
                       4.7
@@ -130,7 +130,7 @@ const NearInspect = () => {
               <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
                 <img
                   className="lg:h-40 sm:mt-5 md:h-36  w-1/2 object-cover object-center rounded-full m-auto"
-                  src="/public/images/main/inspector2.png"
+                  src="/images/main/inspector2.png"
                   alt="blog"
                 />
                 <div className="p-6">
@@ -177,7 +177,7 @@ const NearInspect = () => {
                     <span className="text-gray-400 inline-flex items-center leading-none text-sm">
                       <img
                         className="w-4 h-4 mr-1"
-                        src="/public/images/main/star.png"
+                        src="/images/main/star.png"
                         alt="rating"
                       ></img>
                       4.7

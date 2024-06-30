@@ -6,7 +6,7 @@ const Header = () => {
 <header className="text-gray-600 body-font  rounded-md shadow-md ">
   <div className="container mx-auto flex flex-wrap p-5 justify-between sm:justify-center md:flex-row items-center">
     <Link to="/" className="flex title-font font-medium items-center text-gray-900 sm:mb-4 md:mb-0">
-    <img className="w-16 h-12" src="/public/images/common/appLogo.png" alt="logo" />
+    <img className="w-16 h-12" src="/images/common/appLogo.png" alt="logo" />
       <span className="sm:ml-1 text-xl text-[#071952]">VehicleVista</span>
     </Link>
     <nav className="md:ml-auto md:mr-auto sm:flex flex-wrap items-center hidden  text-base justify-center">
